@@ -1,0 +1,12 @@
+*.idea
+*.pyc
+*.vscode
+.env
+venv
+env
+.vscode
+dummy.json
+*.pkl
+*.json
+*.ann
+keywords_models
